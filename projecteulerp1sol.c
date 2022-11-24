@@ -5,7 +5,7 @@
 int main(void){
 	unsigned int n=0;
 
-	for(unsigned int i =0; i < 1000; i+= 3){
+	for(unsigned int i =0; i < 1000; i+= 5){
 	n+= i;
 	}
 	for(unsigned int i =0; i < 1000; i+= 3){
